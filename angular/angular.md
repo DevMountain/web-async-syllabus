@@ -7,7 +7,7 @@
 | <a href="https://goo.gl/9SkJK5">Pluralsight (< 3 hours)</a>    | <a href="https://goo.gl/jNEPRL">Factory vs Service vs Provider (Blog)</a> | <a href="https://goo.gl/XAz2ue">Pluralsight (< 4 hours)</a>           | <a href="https://goo.gl/bPnqo9">$q (Blog)</a>                            |
 | <a href="https://goo.gl/a2vIxv">Angular Documentation</a>      | <a href="https://goo.gl/giwQ3Z">Angular Docs</a>                          | <a href="https://goo.gl/yHCJIx">Angular Docs Directive Components</a> | <a href="https://goo.gl/0AJ4xU">Pluralsight - 2 videos (~18 minutes)</a> |
 | <a href="#">Add something Here</a>                             | <a href="#">Add something Here</a>                                        | <a href="https://goo.gl/bZYTWl">Angular Docs Custom Directives</a>    | <a href="https://goo.gl/dd3spB">Angular Docs</a>                         |
-
+<!---->
 <!--| <a href="#">Add something Here</a>                             | <a href="#">Add something Here</a>                                        | <a href="#">Add something Here</a>                                    | <a href="#">Add something here</a> |-->
 <!--| <a href="#">Add something Here</a>                             | <a href="#">Add something Here</a>                                        | <a href="#">Add something Here</a>                                    | <a href="#">Add something here</a> |-->
 <!--| <a href="#">Add something Here</a>                             | <a href="#">Add something Here</a>                                        | <a href="#">Add something Here</a>                                    | <a href="#">Add something here</a> |-->

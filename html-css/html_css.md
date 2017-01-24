@@ -1,4 +1,4 @@
-References for HTML/CSS Overall:
+References for HTML/CSS Overall
 |                      HTML/CSS                        |                             HTML                             |                            CSS                            |
 |          :-------------------------------:           |                :-----------------------------:               |                   :-----------------:                     |
 | <a href="https://goo.gl/owj3NU">Lecture Video</a>    | <a href="#">Add something here</a>                           | <a href="https://goo.gl/lylKUs">DVMTN Resources - CSS</a> |

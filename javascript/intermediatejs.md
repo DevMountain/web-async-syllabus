@@ -1,5 +1,5 @@
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|               Callbacks            |                Closures            |              Prototypes            |                  ES6               |
+|            :-------------:         |            :-------------:         |           :-------------:          |             :-----------:          |
+| <a href="#">Add something here</a> | <a href="#">Add something here</a> | <a href="#">Add something here</a> | <a href="es6fiddle.net">ES6 Fiddle</a> |
+| <a href="#">Add something here</a> | <a href="#">Add something here</a> | <a href="#">Add something here</a> | <a href="#">Add something here</a> |
+| <a href="#">Add something here</a> | <a href="#">Add something here</a> | <a href="#">Add something here</a> | <a href="#">Add something here</a> |

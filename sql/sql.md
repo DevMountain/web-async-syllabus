@@ -30,7 +30,3 @@
 | <a href="#">Add something here</a>                      | <a href="#">Add something here</a>                    | <a href="#">Add something here</a>                    | <a href="#">Add something here</a>                    | <a href="#">Add something here</a>                    |
 | <a href="#">Add something here</a>                      | <a href="#">Add something here</a>                    | <a href="#">Add something here</a>                    | <a href="#">Add something here</a>                    | <a href="#">Add something here</a>                    |
 
-
-
-#### Assessment-Prep
-<a href="https://github.com/DevMountain/assessment-prep">Devmountain Assessment Prep Repo</a>

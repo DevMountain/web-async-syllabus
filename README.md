@@ -8,7 +8,7 @@ This repo is designed for you to find useful study materials in topics that you 
 please make a pull request to add them. 
 There is also a super handy site created by DVMTN students for DVMTN students: <a href="http://resources.devmountain.com/#/">DevMountainResources</a>
 
-DevMountain is committed to providing you the best education it can. For some people that means being in a lecture-project setting, and for others, that means giving them all the 
+DevMountain is committed to providing you the best education possible. For some people that means being in a lecture-project setting, and for others, that means giving them all the 
 tools they need to study on their own. The ASYNC program at DevMountain was created to help you study at your own pace. You will have full access to the resources and materials available to any DevMountain student, 
 including vimeo videos, mentor help and projects. In addition, this repo has been created for you to help you find great resources for topics that you would like to learn. 
 
@@ -41,7 +41,7 @@ Some common sites you will find in this repo are:
 
 If you have a Microsoft account (hotmail account, xbox live, etc) it is recommended that you sign up for a <a href="https://www.visualstudio.com/dev-essentials/">Free 3-month trial</a> of Pluralsight, as it has some very helpful videos on just about every topic web dev related.
 
-If there are any rescourses listed here that you cannot access because they are behind a paywall, talk to the ASYNC mentor and he/she may be able to help you. 
+If there are any resources listed here that you cannot access because they are behind a paywall, talk to the ASYNC mentor and he/she may be able to help you. 
 <br>
 <br>
 

@@ -8,7 +8,7 @@ This repo is designed for you to find useful study materials in topics that you 
 please make a pull request to add them. 
 There is also a super handy site created by DVMTN students for DVMTN students: <a href="http://resources.devmountain.com/#/">DevMountainResources</a>
 
-DevMountain is committed to providing you the best education possible. For some people that means being in a lecture-project setting, and for others, that means giving them all the 
+DevMountain is committed to providing you the best education possible. For some people that means being in a lecture/project setting, and for others, that means giving them all the 
 tools they need to study on their own. The ASYNC program at DevMountain was created to help you study at your own pace. You will have full access to the resources and materials available to any DevMountain student, 
 including vimeo videos, mentor help and projects. In addition, this repo has been created for you to help you find great resources for topics that you would like to learn. 
 

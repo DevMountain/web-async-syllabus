@@ -1,6 +1,7 @@
 # DEVMOUNTAIN ASYNC Study Repo
 
 ### Purpose
+<hr>
 This repo is designed for you to find useful study materials in topics that you feel you need extra help. If you find any resources that are helpful to you and not on this list, 
 please make a pull request to add them. 
 There is also a super handy site created by DVMTN students for DVMTN students: <a href="http://resources.devmountain.com/#/">DevMountainResources</a>
@@ -15,8 +16,9 @@ you want to, at your own pace.
 Make sure you have joined the web-async-provo slack channel, as important information will be passed through from time to time.
 
 
-### Getting Started
 
+### Getting Started
+<hr>
 If you do not know where to begin studying, each topic (except SQL) has a assessment prep link at the bottom. Give that a shot to find out which parts were the hardest for you. Then go to the corresponding column and dig in!
 
 Some common sites you will find in this repo are:
@@ -38,6 +40,7 @@ If you have a Microsoft account (hotmail account, xbox live, etc) it is recommen
 If there are any rescourses listed here that you cannot access because they are behind a paywall, talk to the ASYNC mentor and he/she may be able to help you. 
 
 ### Expectations
+<hr>
 
 ##### We expect you to:
  - Be on campus from 9:00 AM-5:00 PM, Lunch is from 12:30-1:30. 
@@ -55,6 +58,7 @@ If there are any rescourses listed here that you cannot access because they are 
 
 
 ### Adding resources
+<hr>
 
 To add something to a table in a readme.md file, please follow this styling:
 ```

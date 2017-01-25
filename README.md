@@ -1,4 +1,6 @@
 # DEVMOUNTAIN ASYNC Study Repo
+<br>
+<br>
 
 ### Purpose
 <hr>
@@ -15,6 +17,8 @@ you want to, at your own pace.
 
 Make sure you have joined the web-async-provo slack channel, as important information will be passed through from time to time.
 
+<br>
+<br>
 
 
 ### Getting Started
@@ -38,6 +42,8 @@ Some common sites you will find in this repo are:
 If you have a Microsoft account (hotmail account, xbox live, etc) it is recommended that you sign up for a <a href="https://www.visualstudio.com/dev-essentials/">Free 3-month trial</a> of Pluralsight, as it has some very helpful videos on just about every topic web dev related.
 
 If there are any rescourses listed here that you cannot access because they are behind a paywall, talk to the ASYNC mentor and he/she may be able to help you. 
+<br>
+<br>
 
 ### Expectations
 <hr>
@@ -54,6 +60,8 @@ If there are any rescourses listed here that you cannot access because they are 
  - Help you find resources that resonate with you.
  - Meet with you regurlarly to see what we can help you with.
 
+<br>
+<br>
 
 
 

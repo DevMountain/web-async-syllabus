@@ -1,17 +1,19 @@
 ### References for HTML/CSS Overall
 |                         Both                         |                             HTML                             |                            CSS                            |
 |          :-------------------------------:           |                :-----------------------------:               |                   :-----------------:                     |
-| <a href="https://goo.gl/owj3NU">Lecture Video</a>    | <a href="https://goo.gl/zAMbW9">CodeAcademy HTML&CSS</a>                           | <a href="https://goo.gl/lylKUs">DVMTN Resources - CSS</a> |
+| <a href="https://goo.gl/owj3NU">Lecture Video</a>    | <a href="https://goo.gl/zAMbW9">CodeAcademy HTML&CSS</a>     | <a href="https://goo.gl/lylKUs">DVMTN Resources - CSS</a> |
 | <a href="https://goo.gl/TtHhnu">HTML&CSS Lessons</a> | <a href="https://goo.gl/rzvxeQ">Stanford HTML Cheatsheet</a> | <a href="https://goo.gl/OWc1l8">CSS Box Model</a>         |
+| <a href="#">Add Something Here</a>                   | <a href="#">Add Something Here</a>                           | <a href="https://goo.gl/gIDAzH">TecSith Youtube Tutorials</a>         |
 
 
 ### Resources By Topic
 
 |                               Flexbox                            |                                 Positioning                             |                       MediaQueries                    |
 |                           :-------------:                        |                        :---------------------------:                    |                    :----------------:                 |
-| <a href="flexbox.io">Video Tutorials by @wesbos</a>              | <a href="https://goo.gl/9DLLfD">CSS Positioning 101 (Blog Tutorial)</a> | <a href="https://goo.gl/ro67wP">MDN Media Queries</a> |
-| <a href="flexboxdefense.com">FlexBox (Tower) Defense (Game)</a>  | <a href="https://goo.gl/BjFiVO">CSS Positioning</a>                     | <a href="#">Add something here</a>                    |
-| <a href="flexboxfroggy.com">FlexBox Froggy (Game)</a>            | <a href="#">Add something here</a>                                      | <a href="#">Add something here</a>                    |
+| <a href="https://flexbox.io">Video Tutorials by @wesbos</a>              | <a href="https://goo.gl/9DLLfD">CSS Positioning 101 (Blog Tutorial)</a> | <a href="https://goo.gl/ro67wP">MDN Media Queries</a> |
+| <a href="http://flexboxdefense.com">FlexBox (Tower) Defense (Game)</a>  | <a href="https://goo.gl/BjFiVO">CSS Positioning</a>                     | <a href="#">Add something here</a>                    |
+| <a href="http://flexboxfroggy.com">FlexBox Froggy (Game)</a>            | <a href="#">Add something here</a>                                      | <a href="#">Add something here</a>                    |
+| <a href="https://flexbox.help/">Live Flexbox Test</a>            | <a href="#">Add something here</a>                                      | <a href="#">Add something here</a>                    |
 
 
 

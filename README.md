@@ -70,8 +70,8 @@ If there are any resources listed here that you cannot access because they are b
 
 To add something to a table in a readme.md file, please follow this styling:
 ```
-|              Column 1              |              Column 2              |              Column 3              |              Column 4              |
-|         :---------------:          |         :---------------:          |         :---------------:          |         :---------------:          |
+|                      Column 1                      |                      Column 2                      |                      Column 3                      |                      Column 4                      |
+|                 :---------------:                  |                 :---------------:                  |                 :---------------:                  |                 :---------------:                  |
 | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something here</a> |
 | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something here</a> |
 | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something here</a> |

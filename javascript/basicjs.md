@@ -17,7 +17,7 @@
 
 |                      Callbacks                    |               Conditional Statements               |
 |                   :-------------:                 |                   :-------------:                  |
-|<a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a> |
+|<a target="_blank" href="#">Add something here</a> | <a target="_blank" href="https://goo.gl/YUZMro">Smarter Way to Learn Ch 10-14</a> |
 |<a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a> |
 |<a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a> |
 |<a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a> |

@@ -6,7 +6,7 @@
 | <a target="_blank" href="https://goo.gl/07vmou">Quick Reference Card</a> | <a target="_blank" href="javascript30.com">Javascript 30</a> |
 | <a target="_blank" href="https://goo.gl/jTojxY">Eloquent Javascript</a>  | <a target="_blank" href="goo.gl/gIDAzH">TecSith Youtube Tutorials</a> |
 | <a target="_blank" href="http://es6-features.org/">ES6 CheatSheet</a>    | <a target="_blank" href="#">Add something Here</a> |
-| <a target="_blank" href="#">Add something Here</a>                       | <a target="_blank" href="#">Add something Here</a> |
+| <a target="_blank" href="https://goo.gl/YUZMro">Smarter Way to Learn</a> | <a target="_blank" href="#">Add something Here</a> |
 | <a target="_blank" href="#">Add something Here</a>                       | <a target="_blank" href="#">Add something Here</a> |
 | <a target="_blank" href="#">Add something Here</a>                       | <a target="_blank" href="#">Add something Here</a> |
 | <a target="_blank" href="#">Add something Here</a>                       | <a target="_blank" href="#">Add something Here</a> |

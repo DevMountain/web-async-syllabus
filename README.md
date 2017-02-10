@@ -2,15 +2,6 @@
 <br>
 <br>
 
-1. Stuff
- - things
- - things
- - other thing
-dfkgnlnfvkjdnv
-2. more
-3. Another
-4. 
-
 ### Purpose
 <hr>
 This repo is designed for you to find useful study materials in topics that you feel you need extra help. If you find any resources that are helpful to you and not on this list, 

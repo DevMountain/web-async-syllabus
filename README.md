@@ -25,11 +25,13 @@ Make sure you have joined the web-async-provo slack channel, as important inform
 <hr>
 If you do not know where to begin studying, each topic (except SQL) has a assessment prep link at the bottom. Give that a shot to find out which parts were the hardest for you. Then go to the corresponding column and dig in!
 
+If you need access to any subscription or premium cost websties please talk to your async mentor or lead instructor about getting you access to an account.  Please do not go pay for one unles you really want to.
+
 Some common sites you will find in this repo are:
 - GOOGLE! (Learn it, use it, love it) <a target="_blank" href="google.com">Link</a>
-- Pluralsight (signup required, $10/month subscription) <a target="_blank" href="pluralsight.com">Link</a>
+- Pluralsight (signup required, month subscription) <a target="_blank" href="pluralsight.com">Link</a>
 - Udemy (signup required, pay for courses) <a target="_blank" href="udemy.com">Link</a>
-- Codeschool (signup required, $19 - $29/month subscription) <a target="_blank" href="codeschool.com">Link</a>
+- Codeschool (signup required, month subscription) <a target="_blank" href="codeschool.com">Link</a>
 - w3schools <a target="_blank" href="w3schools.com">Link</a>
 - MDN <a target="_blank" href="developer.mozilla.org/en-US/">Link</a>
 - Eloquent Javascript <a target="_blank" href="http://eloquentjavascript.net/">Link</a>

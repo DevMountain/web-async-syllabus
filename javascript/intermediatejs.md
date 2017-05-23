@@ -2,14 +2,17 @@
 
 ###Blogs/Articles
 
-|                                Closures                                  |                              Prototypes                                  |                                  This                                    |
-|                            :-------------:                               |                           :-------------:                                |                             :-----------:                                |
-| <a target="_blank" href="https://goo.gl/qOkmIo">Blog</a>                 | <a target="_blank" href="https://goo.gl/mKOpI2">Javascript Succintly</a> | <a target="_blank" href="https://goo.gl/ZvHZKh">Photo</a>                |
-| <a target="_blank" href="http://imgur.com/a/GChcU">Photo</a>             | <a target="_blank" href="#">Add something here</a>                       | <a target="_blank" href="https://goo.gl/j5cg7f">Javascript Succintly</a> |
-| <a target="_blank" href="https://goo.gl/tzKx1U">Javascript Succintly</a> | <a target="_blank" href="#">Add something here</a>                       | <a target="_blank" href="#">Add something here</a>                       |
-| <a target="_blank" href="https://goo.gl/tzKx1U">Javascript Succintly</a> | <a target="_blank" href="#">Add something here</a>                       | <a target="_blank" href="#">Add something here</a>                       |
-| <a target="_blank" href="https://goo.gl/tzKx1U">Javascript Succintly</a> | <a target="_blank" href="#">Add something here</a>                       | <a target="_blank" href="#">Add something here</a>                       |
-| <a target="_blank" href="https://goo.gl/6OcC9m">JS is Sexy</a>           | <a target="_blank" href="#">Add something here</a>                       | <a target="_blank" href="#">Add something here</a>                       |
+|                                  Closures                                    |                              Prototypes                                  |                                  This                                    |
+|                              :-------------:                                 |                           :-------------:                                |                             :-----------:                                |
+| <a target="_blank" href="https://goo.gl/qOkmIo">Blog</a>                     | <a target="_blank" href="https://goo.gl/mKOpI2">Javascript Succintly</a> | <a target="_blank" href="https://goo.gl/ZvHZKh">Photo</a>                |
+| <a target="_blank" href="http://imgur.com/a/GChcU">Photo</a>                 |  | <a target="_blank" href="https://goo.gl/j5cg7f">Javascript Succintly</a> |
+| <a target="_blank" href="https://goo.gl/tzKx1U">Javascript Succintly</a>     | <a target="_blank" href="#">Add something here</a>                       | <a target="_blank" href="#">Add something here</a>                       |
+| <a target="_blank" href="https://goo.gl/tzKx1U">Javascript Succintly</a>     | <a target="_blank" href="#">Add something here</a>                       | <a target="_blank" href="#">Add something here</a>                       |
+| <a target="_blank" href="https://goo.gl/tzKx1U">Javascript Succintly</a>     | <a target="_blank" href="#">Add something here</a>                       | <a target="_blank" href="#">Add something here</a>                       |
+| <a target="_blank" href="https://goo.gl/6OcC9m">JS is Sexy</a>               | <a target="_blank" href="#">Add something here</a>                       | <a target="_blank" href="#">Add something here</a>                       |
+|| <a target="_blank" href="#">Add something here</a>                       | <a target="_blank" href="#">Add something here</a>                       |
+| <a target="_blank" href="#">Add something here</a>                           | <a target="_blank" href="#">Add something here</a>                       | <a target="_blank" href="#">Add something here</a>                       |
+
 
 |                                       ES6                                    |
 |                                  :-----------:                               |
@@ -23,12 +26,12 @@
 
 
 ###Videos
-|                                Closures                             |                                 Prototypes                                 |                          This                      |
-|                            :-------------:                          |                              :-------------:                               |                     :-----------:                  |
-| <a target="_blank" href="https://goo.gl/XkptkX">TecSith YouTube</a> | <a target="_blank" href="https://goo.gl/Qgr43o">TecSith YouTube Part 1</a> | <a target="_blank" href="#">Add something here</a> |
-| <a target="_blank" href="#">Add something here</a>                  | <a target="_blank" href="#">Add something here</a>                         | <a target="_blank" href="#">Add something here</a> |
-| <a target="_blank" href="#">Add something here</a>                  | <a target="_blank" href="#">Add something here</a>                         | <a target="_blank" href="#">Add something here</a> |
-| <a target="_blank" href="#">Add something here</a>                  | <a target="_blank" href="#">Add something here</a>                         | <a target="_blank" href="#">Add something here</a> |
+|                                     Closures                                 |                                   Prototypes                                 |                          This                      |
+|                                 :-------------:                              |                                :-------------:                               |                     :-----------:                  |
+| <a target="_blank" href="https://goo.gl/XkptkX">TecSith YouTube</a>          | <a target="_blank" href="https://goo.gl/Qgr43o">TecSith YouTube Part 1</a>   | <a target="_blank" href="#">Add something here</a> |
+| <a target="_blank" href="https://goo.gl/o306T3">Vimeo - Jeremy Robertson</a> | <a target="_blank" href="https://goo.gl/o306T3">Vimeo - Jeremy Robertson</a> | <a target="_blank" href="#">Add something here</a> |
+| <a target="_blank" href="#">Add something here</a>                           | <a target="_blank" href="#">Add something here</a>                           | <a target="_blank" href="#">Add something here</a> |
+| <a target="_blank" href="#">Add something here</a>                           | <a target="_blank" href="#">Add something here</a>                           | <a target="_blank" href="#">Add something here</a> |
 
 |                          ES6                       |
 |                     :-----------:                  |

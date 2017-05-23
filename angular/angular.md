@@ -27,9 +27,10 @@
 
 |                                      Angular Overall                           |                                    Services                                |                                     Directives                              |
 |                                      :-------------:                           |                                 :-------------:                            |                                  :-------------:                            |
-| <a target="_blank" href="https://goo.gl/rohwTQ">Udemy (7 hours)</a>            | <a target="_blank" href="https://goo.gl/4O0Ckt">Pluralsight (~3 hours)</a> | <a target="_blank" href="https://goo.gl/BQyNKR">Lecture Video</a>           |
-| <a target="_blank" href="https://goo.gl/inXTyY">Angular in 60(ish) minutes</a> | <a target="_blank" href="#">Add something Here</a>                         | <a target="_blank" href="https://goo.gl/XAz2ue">Pluralsight (< 4 hours)</a> |
-| <a target="_blank" href="https://goo.gl/9SkJK5">Pluralsight (< 3 hours)</a>    | <a target="_blank" href="#">Add something Here</a>                         | <a target="_blank" href="#">Add something Here</a>                          |
+| <a target="_blank" href="https://goo.gl/rohwTQ">Udemy (7 hours)</a>            | <a target="_blank" href="https://goo.gl/4O0Ckt">Pluralsight (~3 hours)</a> | <a target="_blank" href="https://goo.gl/35MQ9h">Lecture Video</a>           |
+| <a target="_blank" href="https://goo.gl/inXTyY">Angular in 60(ish) minutes</a> | <a target="_blank" href="https://goo.gl/uokVme">Vimeo - Jeremy Robertson pt. 1</a> | <a target="_blank" href="https://goo.gl/XAz2ue">Pluralsight (< 4 hours)</a> |
+| <a target="_blank" href="https://goo.gl/9SkJK5">Pluralsight (< 3 hours)</a>    | <a target="_blank" href="https://goo.gl/fcTkjU">Vimeo - Jeremy Robertson pt. 2</a> | <a target="_blank" href="https://goo.gl/dLmY1C">Vimeo - Ryan Walsh</a>                          |
+| <a target="_blank" href="https://goo.gl/SnCnbD">Vimeo - Dustin Meyers</a>      | <a target="_blank" href="#">Add something Here</a>                         | <a target="_blank" href="#">Add something Here</a>                          |
 | <a target="_blank" href="#">Add something Here</a>                             | <a target="_blank" href="#">Add something Here</a>                         | <a target="_blank" href="#">Add something Here</a>                          |
 | <a target="_blank" href="#">Add something Here</a>                             | <a target="_blank" href="#">Add something Here</a>                         | <a target="_blank" href="#">Add something Here</a>                          |
 
@@ -37,8 +38,10 @@
 |                                         :-------------:                               |
 | <a target="_blank" href="https://goo.gl/8FdJ6R">Basic Promises (Egghead.io video)</a> |
 | <a target="_blank" href="https://goo.gl/dvONIY">TecSith YouTube</a>                   |
-| <a target="_blank" href="#">Add something Here</a>                  |
-| <a target="_blank" href="#">Add something Here</a>                  |
+| <a target="_blank" href="https://goo.gl/IzHf3v">Vimeo</a>                  |
+| <a target="_blank" href="https://goo.gl/3gnG5d">$http, REST, and Promises</a>                  |
+| <a target="_blank" href="#">Add something Here</a>                             |
+| <a target="_blank" href="#">Add something Here</a>                             |
 
 
 <!---->

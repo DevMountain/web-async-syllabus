@@ -25,11 +25,11 @@
 
 ###Videos
 
-|                      Column 1                      |                      Column 2                      |                      Column 3                      |
-|                 :---------------:                  |                 :---------------:                  |                 :---------------:                  |
-| <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something Here</a> |
-| <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something Here</a> |
-| <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something Here</a> |
+|                                 Day 1                               |                                Day 2                                |                                Day 3                                |
+|                          :---------------:                          |                          :---------------:                          |                          :---------------:                          |
+| <a target="_blank" href="https://goo.gl/NhgE3l">Vimeo - Kendall</a> | <a target="_blank" href="https://goo.gl/sC8MMP">Vimeo - Kendall</a> | <a target="_blank" href="https://goo.gl/tllhQr">Vimeo - Kendall</a> |
+| <a target="_blank" href="#">Add something Here</a>                  | <a target="_blank" href="#">Add something Here</a>                  | <a target="_blank" href="#">Add something Here</a>                  |
+| <a target="_blank" href="#">Add something Here</a>                  | <a target="_blank" href="#">Add something Here</a>                  | <a target="_blank" href="#">Add something Here</a>                  |
 
 <!---->
 <!--

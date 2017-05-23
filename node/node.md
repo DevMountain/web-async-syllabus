@@ -14,11 +14,13 @@
 
 ###Videos
 
-|                      Column 1                      |                      Column 2                      |                      Column 3                      |                      Column 4                      |
-|                 :---------------:                  |                 :---------------:                  |                 :---------------:                  |                 :---------------:                  |
-| <a target="_blank" href="https://goo.gl/3Wx96x">Free Code Camp</a> | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something here</a> |
-| <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something here</a> |
-| <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something here</a> |
+|                                 Column 1                                 |                                   Column 2                               |                                   Column 3                               |                      Column 4                      |
+|                            :---------------:                             |                              :---------------:                           |                              :---------------:                           |                 :---------------:                  |
+| <a target="_blank" href="https://goo.gl/3Wx96x">Free Code Camp</a>       | <a target="_blank" href="https://goo.gl/VTrxfG">Vimeo - Dallin Crane</a> | <a target="_blank" href="https://goo.gl/AfCbAc">Vimeo - Dallin Crane</a> | <a target="_blank" href="#">Add something here</a> |
+| <a target="_blank" href="https://goo.gl/vubDqK">Vimeo - Dallin Crane</a> | <a target="_blank" href="#">Add something Here</a>                       | <a target="_blank" href="#">Add something Here</a>                       | <a target="_blank" href="#">Add something here</a> |
+| <a target="_blank" href="#">Add something Here</a>                       | <a target="_blank" href="#">Add something Here</a>                       | <a target="_blank" href="#">Add something Here</a>                       | <a target="_blank" href="#">Add something here</a> |
+| <a target="_blank" href="#">Add something Here</a>                       | <a target="_blank" href="#">Add something Here</a>                       | <a target="_blank" href="#">Add something Here</a>                       | <a target="_blank" href="#">Add something here</a> |
+| <a target="_blank" href="#">Add something Here</a>                       | <a target="_blank" href="#">Add something Here</a>                       | <a target="_blank" href="#">Add something Here</a>                       | <a target="_blank" href="#">Add something here</a> |
 
 
 

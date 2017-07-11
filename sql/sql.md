@@ -1,5 +1,10 @@
 #SQL
 
+
+### Getting Started
+Please follow these instructions to connect to a postgres database:
+https://github.com/statianzo/sql-setup
+
 ###Blogs/Articles
 
 |                           SQL Overall                       |                    Column 2                        |                        Column 3                    |

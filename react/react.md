@@ -3,22 +3,11 @@
 ### Blogs/Articles
 |                               React Overall                             |                                       Redux                                            |                                         Async                                    |
 |                               :-------------:                             |                                    :-------------:                                        |                                      :-------------:                                  |
-| <a target="_blank" href="https://reactjs.org">React Documentation</a> | <a target="_blank" href="https://goo.gl/6pAQ9q">W3 Schools (Blog)</a>                     | <a target="_blank" href="https://goo.gl/xHnFp8">Custom Directives (Blog)</a>          |
+| <a target="_blank" href="https://reactjs.org">React Documentation</a> | <a target="_blank" href="https://redux.js.org/">Redux Documentation</a>                     | <a target="_blank" href="https://github.com/axios/axios">Axios Documentation</a>          |
 | <a target="_blank" href="https://github.com/facebook/react">Official React Github</a>                        | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something Here</a> |
 | <a target="_blank" href="#">Add something Here</a>                        | <a target="_blank" href="#">Add something Here</a>                          | <a target="_blank" href="#">Add something Here</a>    |
 | <a target="_blank" href="#">Add something Here</a>                        | <a target="_blank" href="#">Add something Here</a>                                        | <a target="_blank" href="#">Add something Here</a>                      |
 | <a target="_blank" href="#">Add something Here</a>                        | <a target="_blank" href="#">Add something Here</a>                                        | <a target="_blank" href="#">Add something Here</a>                                    |
-
-|                              Promises                                     |
-|                          :-------------:                                  |
-| <a target="_blank" href="#">Add something Here</a>                        |
-| <a target="_blank" href="#">Add something Here</a>                        |
-| <a target="_blank" href="#">Add something Here</a>                        |
-| <a target="_blank" href="#">Add something Here</a>                        |
-| <a target="_blank" href="#">Add something Here</a>                        |
-| <a target="_blank" href="#">Add something Here</a>                        |
-| <a target="_blank" href="#">Add something Here</a>                        |
-| <a target="_blank" href="#">Add something Here</a>                        |
 
 
 

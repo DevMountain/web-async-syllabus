@@ -1,4 +1,4 @@
-# Angular
+# React
 
 ### Blogs/Articles
 |                               React Overall                             |                                       Redux                                            |                                         Async                                    |

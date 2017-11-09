@@ -16,7 +16,7 @@
 
 |                                      React Overall                           |                                    Redux                                |                                     Async                              |
 |                                      :-------------:                           |                                 :-------------:                            |                                  :-------------:                            |
-| <a target="_blank" href="https://www.youtube.com/channel/UCP_lo1MFyx5IXDeD9s_6nUw">Facebook Developers YouTube Channel</a>            | <a target="_blank" href="#"></a> | <a target="_blank" href="#">Add something here</a>           |
+| <a target="_blank" href="https://www.youtube.com/channel/UCP_lo1MFyx5IXDeD9s_6nUw">Facebook Developers YouTube Channel</a>            | <a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a>           |
 | <a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a> |
 | <a target="_blank" href="#">Add something here</a>    | <a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a>                          |
 | <a target="_blank" href="#">Add something here</a>      | <a target="_blank" href="#">Add something Here</a>                         | <a target="_blank" href="#">Add something Here</a>                          |

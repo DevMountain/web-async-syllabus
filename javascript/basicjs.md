@@ -7,7 +7,7 @@
 ### Blogs/Articles
 |                                 Objects                                    |                                    Arrays                                 |                               Functions                                  |                                 Loops                                 |
 |                              :-----------:                                 |                                :-----------:                              |                             :-----------:                                |                             :-----------:                             |
-| <a target="_blank" href="https://goo.gl/5jPiQF">W3 Schools</a>             | <a target="_blank" href="https://goo.gl/FFpO4J">W3 Schools</a>            | <a target="_blank" href="https://goo.gl/ehcMuX">Javascript Succintly</a> | <a target="_blank" href="https://goo.gl/EYrjpG">MDN - Loops</a>       | 
+| <a target="_blank" href="https://goo.gl/5jPiQF">W3 Schools</a>             | <a target="_blank" href="https://goo.gl/FFpO4J">W3 Schools</a>            | <a target="_blank" href="https://goo.gl/ehcMuX">Javascript Succintly</a> | <a target="_blank" href="https://goo.gl/EYrjpG">MDN - Loops</a>       |
 | <a target="_blank" href="https://goo.gl/CqGbrU">JS is Sexy</a>             | <a target="_blank" href="https://goo.gl/OvLh9Z">Tutsplus</a>              | <a target="_blank" href="https://goo.gl/9wFHRv">Eloquent Javascript</a>  | <a target="_blank" href="#">Add something here</a>                    |
 | <a target="_blank" href="https://goo.gl/An1zI2">Javascript Succintly</a>   | <a target="_blank" href="#">Add something here</a>                        | <a target="_blank" href="#">Add something here</a>                       | <a target="_blank" href="#">Add something here</a>                    |
 | <a target="_blank" href="https://goo.gl/iJg3gt">Objects and Properties</a> | <a target="_blank" href="#">Add something here</a>                        | <a target="_blank" href="#">Add something here</a>                       | <a target="_blank" href="#">Add something here</a>                    |
@@ -15,13 +15,13 @@
 | <a target="_blank" href="#">Add something here</a>                         | <a target="_blank" href="#">Add something here</a>                        | <a target="_blank" href="#">Add something here</a>                       | <a target="_blank" href="#">Add something here</a>                    |
 | <a target="_blank" href="#">Add something here</a>                         | <a target="_blank" href="#">Add something here</a>                        | <a target="_blank" href="#">Add something here</a>                       | <a target="_blank" href="#">Add something here</a>                    |
 
-|                      Callbacks                    |               Conditional Statements               |
-|                   :-------------:                 |                   :-------------:                  |
-|<a target="_blank" href="#">Add something here</a> | <a target="_blank" href="https://goo.gl/YUZMro">Smarter Way to Learn Ch 10-14</a> |
-|<a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a> |
-|<a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a> |
-|<a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a> |
-|<a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a> |
+|                      Callbacks                    |               Conditional Statements               |               Miscellaneous Resources              |
+|                   :-------------:                 |                   :-------------:                  |                   :-------------:                  |
+|<a target="_blank" href="#">Add something here</a> | <a target="_blank" href="https://goo.gl/YUZMro">Smarter Way to Learn Ch 10-14</a> | <a target="_blank" href="https://scotch.io/courses/10-need-to-know-javascript-concepts">10 Need-to-Know JS Concepts</a> |
+|<a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a> | <a target="_blank" href="https://tylermcginnis.com/blog/">Tyler McGinnis' JS Blog - VERY INFORMATIVE!</a> |
+|<a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a> | <a target="_blank" href="https://tylermcginnis.com/imperative-vs-declarative-programming/">Imperative vs Declarative Programming</a> |
+|<a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a> |
+|<a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a> |
 
 ### Video Tutorials
 |                                   Objects                               |                                 Arrays                                |                                Functions                              |                                 Loops                                 |

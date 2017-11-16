@@ -15,13 +15,13 @@
 | <a target="_blank" href="#">Add something here</a>                         | <a target="_blank" href="#">Add something here</a>                        | <a target="_blank" href="#">Add something here</a>                       | <a target="_blank" href="#">Add something here</a>                    |
 | <a target="_blank" href="#">Add something here</a>                         | <a target="_blank" href="#">Add something here</a>                        | <a target="_blank" href="#">Add something here</a>                       | <a target="_blank" href="#">Add something here</a>                    |
 
-|                      Callbacks                    |               Conditional Statements               |
-|                   :-------------:                 |                   :-------------:                  |
-|<a target="_blank" href="#">Add something here</a> | <a target="_blank" href="https://goo.gl/YUZMro">Smarter Way to Learn Ch 10-14</a> |
-|<a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a> |
-|<a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a> |
-|<a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a> |
-|<a target="_blank" href="#">Add something here</a> | <a target="_blank" href="#">Add something here</a> |
+|                            Callbacks                          |                                Conditional Statements                             |                    Ternary Operator                |
+|                         :-------------:                       |                                    :-------------:                                |                    :-------------:                 |
+|<a target="_blank" href="https://goo.gl/RxHn9c">JS is sexy</a> | <a target="_blank" href="https://goo.gl/YUZMro">Smarter Way to Learn Ch 10-14</a> | <a target="_blank" href="https://goo.gl/uy9tHv">Youtube</a> |
+|<a target="_blank" href="#">Add something here</a>             | <a target="_blank" href="#">Add something here</a>                                | <a target="_blank" href="#">Add something here</a> |
+|<a target="_blank" href="#">Add something here</a>             | <a target="_blank" href="#">Add something here</a>                                | <a target="_blank" href="#">Add something here</a> |
+|<a target="_blank" href="#">Add something here</a>             | <a target="_blank" href="#">Add something here</a>                                | <a target="_blank" href="#">Add something here</a> |
+|<a target="_blank" href="#">Add something here</a>             | <a target="_blank" href="#">Add something here</a>                                | <a target="_blank" href="#">Add something here</a> |
 
 ### Video Tutorials
 |                                   Objects                               |                                 Arrays                                |                                Functions                              |                                 Loops                                 |
@@ -36,9 +36,9 @@
 
 |                               Callbacks                             |                         Conditional Statements                      |
 |                            :-------------:                          |                            :-------------:                          |
-| <a target="_blank" href="https://goo.gl/RxHn9c">JS is sexy</a>      | <a target="_blank" href="#">Add something here</a>                  |
+| <a target="_blank" href="https://goo.gl/OqmNSo">Vimeo - Jeremy Robertson</a>v| <a target="_blank" href="#">Add something here</a>                  |
 | <a target="_blank" href="https://goo.gl/16fimb">TecSith YouTube</a> | <a target="_blank" href="#">Add something here</a>                  |
-| <a target="_blank" href="https://goo.gl/OqmNSo">Vimeo - Jeremy Robertson</a> | <a target="_blank" href="#">Add something here</a>                  |
+| <a target="_blank" href="#">Add something here</a>                  | <a target="_blank" href="#">Add something here</a>                  |
 | <a target="_blank" href="#">Add something here</a>                  | <a target="_blank" href="#">Add something here</a>                  |
 | <a target="_blank" href="#">Add something here</a>                  | <a target="_blank" href="#">Add something here</a>                  |
 

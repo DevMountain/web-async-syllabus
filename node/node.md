@@ -1,6 +1,6 @@
 # Node
 
-###Blogs/Articles
+### Blogs/Articles
 
 |                      Column 1                      |                      Column 2                      |                      Column 3                      |                      Column 4                      |
 |                 :---------------:                  |                 :---------------:                  |                 :---------------:                  |                 :---------------:                  |
@@ -12,7 +12,7 @@
 | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something Here</a> | <a target="_blank" href="#">Add something here</a> |
 
 
-###Videos
+### Videos
 
 |                                 Column 1                                 |                                   Column 2                               |                                   Column 3                               |                      Column 4                      |
 |                            :---------------:                             |                              :---------------:                           |                              :---------------:                           |                 :---------------:                  |

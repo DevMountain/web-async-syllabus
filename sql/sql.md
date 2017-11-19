@@ -1,11 +1,11 @@
-#SQL
+# SQL
 
 
 ### Getting Started
 Please follow these instructions to connect to a postgres database:
 https://github.com/statianzo/sql-setup
 
-###Blogs/Articles
+### Blogs/Articles
 
 |                           SQL Overall                       |                    Column 2                        |                        Column 3                    |
 |                        :---------------:                    |               :---------------:                    |                   :---------------:                |
@@ -28,7 +28,7 @@ https://github.com/statianzo/sql-setup
 | <a target="_blank" href="#">Add something here</a> |-->
 
 
-###Videos
+### Videos
 
 |                                 Day 1                               |                                Day 2                                |                                Day 3                                |
 |                          :---------------:                          |                          :---------------:                          |                          :---------------:                          |
